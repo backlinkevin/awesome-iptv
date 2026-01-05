@@ -17,6 +17,7 @@ A curated list of resources related to IPTV.
   - [Smart TV](#smart-tv)
   - [Xbox](#xbox)
   - [Google Chrome](#google-chrome)
+  - [Docker](#docker)
 - 📡 [Providers](#providers)
 - 🗄️ [Channel Datasets](#channel-datasets)
 - 🗓 [EPG Sources](#epg-sources)
@@ -48,7 +49,12 @@ Applications with support of IPTV streams.
 - [hlstv.app](https://hlstv.app) – Fast, easy to use iptv player with curated local & remote URL upload capabilities.
 - [M3U IPTV](https://m3u-ip.tv/browser/) - Stream your M3U playlist with our free, easy-to-use IPTV player app.
 - [Moviepex](https://moviepex.com)- Super fast IPTV player with family profiles, great UX/UI, IMDB integration, football matches of day integration, and TV remote navigation.
-- [Web IPTV Player] [https://www.webiptvplayer.com/] - Modern, secure browser-based player featuring Google Cloud Sync for playlists, Chromecast/AirPlay support, EPG, and smart VLC integration for complex streams.
+- [Web IPTV Player](https://www.webiptvplayer.com/) - Modern, secure browser-based player featuring Google Cloud Sync for playlists, Chromecast/AirPlay support, EPG, and smart VLC integration for complex streams.
+- [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
+- [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
+- [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
+- [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
+- [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
   
 #### Windows
 
@@ -67,6 +73,14 @@ Applications with support of IPTV streams.
 - [MAC & Stalker IPTV Player by MY-1](https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1) - Stream Live TV, VOD, and Series from MAC-based and Stalker IPTV portals directly on Windows with powerful extra features.
 - [M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 - [AndyTV](https://github.com/aherrick/AndyTV) - A lightweight, open-source IPTV player for Windows.
+- [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
+- [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
+- [King Stream Player](https://apps.microsoft.com/store/detail/9pkbz7773f60?gl=US&hl=en-US) - Simple Windows media application to play your IPTV playlists and local streams.
+- [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
+- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
+- [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) - IPTV API Link Validator in WinUI3.
+- [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
+
 
 #### macOS
 
@@ -82,6 +96,12 @@ Applications with support of IPTV streams.
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=mac) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=mac) - A high-quality live streaming source player app that can preview in real time.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=mac) - Smart and intuitive media hub designed to centralize your personal video collections.
+- [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
+- [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
+- [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
+- [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=mac) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
+- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
+
 
 #### Linux
 
@@ -97,6 +117,11 @@ Applications with support of IPTV streams.
 - [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app.
 - [TVHplayer](https://github.com/mfat/tvhplayer) - Cross-platform desktop client for TVheadend using vlc as playback engine, featuring EPG, remote (DVR) and local recording.
 - [yuki-iptv](https://codeberg.org/liya/yuki-iptv) - IPTV player with EPG support.
+- [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
+- [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
+- [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
+- [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
+- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 
 #### Android
 
@@ -146,7 +171,7 @@ Applications with support of IPTV streams.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=iphone) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=iphone) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
-- [King Stream Player – IPTV Player for Apple devices](https://apps.apple.com/us/app/king-stream-player/id6748822861) - King Stream Player is a clean and lightweight IPTV player designed for Apple devices. Built with a focus on performance, simplicity, and long-term stability. This app is a media player only and does not provide any IPTV content. Users must add their own playlists. 
+- [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=iphone) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
 
 #### iPad
 
@@ -165,6 +190,7 @@ Applications with support of IPTV streams.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=ipad) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=ipad) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
+- [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=iphone) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
 
 #### Apple Watch
 
@@ -199,6 +225,13 @@ Applications with support of IPTV streams.
 - [Stream Commander](https://chromewebstore.google.com/detail/stream-commander/lkfcnjmgmphlbakoinjidjhcenokblbo) - Watch live stream on JW Player Stream Tester page.
 - [M3U IPTV](https://chromewebstore.google.com/detail/m3u-iptv/phlijnghlojafmnhnblaggdmeojcdgdb) - Browser extension to disable CORS in [M3U IPTV Browser](https://m3u-ip.tv/browser/) version.
 - [IPTV Player](https://chromewebstore.google.com/detail/iptv-player-player-for-hl/lljjhhjbbppcbfbhmflgjhloagchmijo) - Play HLS / M3U streams directly in the Chrome browser.
+
+#### Docker
+
+- [ViniPlay](https://github.com/ardoviniandrea/ViniPlay) - A powerful, self-hosted IPTV player with a modern web interface.
+- [nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A modern, web-based IPTV player featuring Live TV, EPG, Movies (VOD), and Series support.
+- [neTV](https://github.com/jvdillon/netv) - A minimal, self-hosted web interface for IPTV streams.
+- [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
 
 ## Providers
 
@@ -273,20 +306,6 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [EPGSHARE01](https://epgshare01.online/) - Program guides for multiple countries.
 - [Open EPG](https://www.open-epg.com/) - Free EPG for 2 days, sorted by country.
 
-## Tools
-
-Useful tools for working with IPTV.
-
-- [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
-- [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
-- [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
-- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
-- [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
-- [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
-- [M3Unator](https://github.com/hasanbeder/M3Unator) - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
-- [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) - IPTV API Link Validator in WinUI3.
-- [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
-
 ## Programming
 
 Libraries and frameworks for working with IPTV data
@@ -303,6 +322,7 @@ Libraries and frameworks for working with IPTV data
 - [flybird-downloader](https://github.com/youwen21/flybird-downloader) - M3U8 downloader and IPTV checker.
 - [davidclaeysquinones/epg-info-docker](https://github.com/davidclaeysquinones/epg-info-docker) - Docker container image for [iptv-org/epg](https://github.com/iptv-org/epg).
 - [@iptv/xtream-api](https://www.npmjs.com/package/@iptv/xtream-api) - Work with Xtream compatible player API's in a standardized format.
+- [M3Unator](https://github.com/hasanbeder/M3Unator) - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
 
 ## Contribution
 
